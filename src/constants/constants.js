@@ -22,8 +22,8 @@ export const projects = [
     description: "Portafolio Creado con Next JS para poner en practica los conocimientos, se utilizan para el diseño styled components,svg e icons",
       image: '/images/3.jpg',
       tags: ['React', 'Next JS','Styled Components'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Razazele/portfolio_nextjs',
+    visit: 'https://nextjsportfoliopvj.netlify.app/',
     id: 2,
   },
 ];
